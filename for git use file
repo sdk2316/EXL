@@ -1,0 +1,16 @@
+# EXL
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sdk2316/EXL.git
+ git push --set-upstream origin master
+
+ 
+ this will created branch and switch also
+ git checkout -b sub-branch
+ git status
+ 
+ git push --set-upstream origin sub-branch
